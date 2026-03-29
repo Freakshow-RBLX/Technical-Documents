@@ -1,2 +1,3 @@
-# Technical-Documents
-Public technical documentation for Freakshow
+# Freakshow Technical Documents
+
+Public technical documentation for Freakshow.

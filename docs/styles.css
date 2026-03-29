@@ -1,0 +1,26 @@
+.md-footer,
+.md-header {
+    display: none;
+}
+
+.md-sidebar {
+    width: 260px;
+}
+
+.md-content {
+    max-width: 800px;
+    margin: auto;
+}
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+    color: #000000;
+    font-weight: 400;
+    border-bottom: 1px solid #e5e7eb;
+    padding-bottom: 0.3em;
+}
+
+.md-typeset h1 {
+    font-weight: 500;
+}
